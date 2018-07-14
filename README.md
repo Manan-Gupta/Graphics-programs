@@ -1,2 +1,1 @@
-# Graphics-programs
-Some graphics program in C
+Here are some graphics program in C
